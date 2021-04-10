@@ -1,15 +1,27 @@
 # Data-Analysis-with-Python
 
-**Section 1:** Getting Started
-1. Getting Started
-2. Python Arithmetic
-3. Basic Data Types
+**Section 1:** Getting Started Python
+1. Getting Started With Python
+2. What is Python
+3. Why we need Python
+4. Installation with Python
+5. Pip Commends in Python 
+6. Introducation to Python
+7. Basic Data Types
+8. String
+9. String Methods
+10. Index and Slice and Extended Slice
+11. Type Casting
+12. Data Structures
+13. List and List Methods
+14. Tuples and Tuple Methods
+15. Dictionaries and Methods
+16. Sets and Sets Methods
+
+
 
 **Section 2:** Data Structures
-4: Variables
-5: Lists
-6: Tuples and Strings
-7: Dictionaries and Sets
+
 8: Numpy Arrays
 9: Pandas DataFrames
 10: Reading and Writing Data
