@@ -17,38 +17,60 @@
 14. Tuples and Tuple Methods
 15. Dictionaries and Methods
 16. Sets and Sets Methods
+17. Operaters in Python
+18. Condational Stastements
+19. Looping Stastement
+20. Funcation
+21. Modules and Packages
+22. Build in Modules
+23. Os,Sys,Array,Math,Json,Request,DataTime,RegEx
+24. Extenal Modules 
+25. Numpy,Scipy,Pandas,matplotlib,Seaborn
+26. Class and Object
+27. Inheritance
+28. Inheritance
+29. Polymorphism
+30. Encapsulation
+31. Abstraction
+32. Instances, Constructors & Self
+33. Class Attributes
+34. Methods
+35. Static Methods
+36. Python Advanced Topics
+37. Python Iterator
+38. Generator
+39. Closure
+40. Decorators
+41. Property
 
+**Section 2: ** Basic Statistics
 
-
-**Section 2:** Data Structures
-
-8: Numpy Arrays
-9: Pandas DataFrames
-10: Reading and Writing Data
-
-**Section 3:** Programming Constructs
-11: Control Flow
-12: Functions
-13: List Comprehensions
-
-**Section 4:** Data Exploration and Cleaning
-14: Data Exploration and Cleaning
-15: Working With Text Data
-16: Preparing Numeric Data
-17: Dealing With Dates
-18: Merging Data
-19: Frequency Tables
-20: Plotting with pandas
-
-**Section 5: ** Basic Statistics
-21: Descriptive Statistics
-22: Probability Distributions
-23: Confidence Intervals
+42. What is Statistics
+43. 
+44. Type of Data
+    * Qualitative Data Type
+        *   Nominal
+        *   Ordinal
+    * Quantitative Data Type
+        *   Discrete
+        *   Continuous
+45. How Statistics is Used in Data Analysis
+46. Importence of Statistics  
+47. escriptive Statistics
+48. Inferential statistics
+50. Probability Distributions
+51. Confidence Intervals
 
 **Section 6:** Inferential Statistics
-24: Hypothesis Testing
-25: Chi-Squared Tests
-26: ANOVA
+52. Hypothesis Testing
+53. Chi-Squared Tests
+54. ANOVA
+     * Hypothesis Tests
+     * Z Statistics
+     * Confidence Level
+     * Significance Level
+     * T Statistics
+ 55. Confidence Interval
 
 **Section 7:** Predictive Modeling
 27: Linear Regression
