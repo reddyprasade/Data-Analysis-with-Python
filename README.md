@@ -73,7 +73,8 @@
  55. Confidence Interval
 
 **Section 7:** Predictive Modeling
-27: Linear Regression
-28: Logistic Regression
-29: Decision Trees
-30: Random Forests
+56. Linear Regression
+57. Logistic Regression
+58. Multi-variate regression model
+59. Robust nonlinear regression in scipy
+
