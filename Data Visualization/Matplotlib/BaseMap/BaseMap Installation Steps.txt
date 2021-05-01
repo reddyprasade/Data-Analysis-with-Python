@@ -1,0 +1,56 @@
+Steps:
+
+1. Go this link https://www.lfd.uci.edu/~gohlke/pythonlibs/
+2. Find the Basemap in above link
+3. Download that basemap according to You version of python
+4. Go Download location and type the commend
+		
+		pip install <Loacation of file>
+
+
+
+********************************************************
+
+E:\Data Visulization\Matplotlib\Baseman_package>dir
+ Volume in drive E is New Volume
+ Volume Serial Number is 90A4-3465
+
+ Directory of E:\Data Visulization\Matplotlib\Baseman_package
+
+25-05-2020  09:24    <DIR>          .
+25-05-2020  09:24    <DIR>          ..
+08-08-2019  06:56       122,100,011 basemap-1.2.1-cp36-cp36m-win_amd64.whl
+               1 File(s)    122,100,011 bytes
+               2 Dir(s)  660,319,125,504 bytes free
+
+*********************************************************
+pip install basemap-1.2.1-cp36-cp36m-win_amd64.whl
+*********************************************************
+
+E:\Data Visulization\Matplotlib\Baseman_package>pip install basemap-1.2.1-cp36-cp36m-win_amd64.whl
+Processing e:\data visulization\matplotlib\baseman_package\basemap-1.2.1-cp36-cp36m-win_amd64.whl
+Collecting pyproj>=1.9.3
+  Downloading pyproj-3.0.1-cp36-cp36m-win_amd64.whl (14.6 MB)
+     |████████████████████████████████| 14.6 MB 6.4 MB/s
+Requirement already satisfied: six in c:\users\reddy\appdata\local\programs\python\python36\lib\site-packages (from basemap==1.2.1) (1.15.0)
+Requirement already satisfied: numpy>=1.2.1 in c:\users\reddy\appdata\local\programs\python\python36\lib\site-packages (from basemap==1.2.1) (1.19.5)
+Collecting pyshp>=1.2.0
+  Downloading pyshp-2.1.3.tar.gz (219 kB)
+     |████████████████████████████████| 219 kB 6.8 MB/s
+Requirement already satisfied: matplotlib!=3.0.1,>=1.0.0 in c:\users\reddy\appdata\local\programs\python\python36\lib\site-packages (from basemap==1.2.1) (3.3.4)
+Requirement already satisfied: python-dateutil>=2.1 in c:\users\reddy\appdata\local\programs\python\python36\lib\site-packages (from matplotlib!=3.0.1,>=1.0.0->basemap==1.2.1) (2.8.1)
+Requirement already satisfied: pillow>=6.2.0 in c:\users\reddy\appdata\local\programs\python\python36\lib\site-packages (from matplotlib!=3.0.1,>=1.0.0->basemap==1.2.1) (8.1.2)
+Requirement already satisfied: cycler>=0.10 in c:\users\reddy\appdata\local\programs\python\python36\lib\site-packages (from matplotlib!=3.0.1,>=1.0.0->basemap==1.2.1) (0.10.0)
+Requirement already satisfied: kiwisolver>=1.0.1 in c:\users\reddy\appdata\local\programs\python\python36\lib\site-packages (from matplotlib!=3.0.1,>=1.0.0->basemap==1.2.1) (1.3.1)
+Requirement already satisfied: pyparsing!=2.0.4,!=2.1.2,!=2.1.6,>=2.0.3 in c:\users\reddy\appdata\local\programs\python\python36\lib\site-packages (from matplotlib!=3.0.1,>=1.0.0->basemap==1.2.1) (2.4.7)
+Requirement already satisfied: certifi in c:\users\reddy\appdata\local\programs\python\python36\lib\site-packages (from pyproj>=1.9.3->basemap==1.2.1) (2020.12.5)
+Building wheels for collected packages: pyshp
+  Building wheel for pyshp (setup.py) ... done
+  Created wheel for pyshp: filename=pyshp-2.1.3-py3-none-any.whl size=37263 sha256=772ab7133e33e2eed6b9dbaa3cf82e52ee251fc239b0455eb8faf2b48fa7e354
+  Stored in directory: c:\users\reddy\appdata\local\pip\cache\wheels\81\d8\9d\312fb6be277d9fdcf08d2cfd11af4f326430f6ad65ed2a6f62
+Successfully built pyshp
+Installing collected packages: pyshp, pyproj, basemap
+Successfully installed basemap-1.2.1 pyproj-3.0.1 pyshp-2.1.3
+WARNING: You are using pip version 21.0.1; however, version 21.1.1 is available.
+You should consider upgrading via the 'c:\users\reddy\appdata\local\programs\python\python36\python.exe -m pip install --upgrade pip' command.
+****************************
