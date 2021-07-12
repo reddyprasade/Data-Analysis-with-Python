@@ -1,0 +1,33 @@
+Write Dynamic Script For the Following Task:
+
+
+Cleaning the data:
+
+
+"Once you’ve collected your data, the next step is to get it ready for analysis. This means cleaning, or ‘scrubbing’ it, and is crucial in making sure that you’re working with high-quality data. Key data cleaning tasks include:"
+
+"Removing major errors, duplicates, and outliers—all of which are inevitable problems when aggregating data from numerous sources."
+Removing unwanted data points—extracting irrelevant observations that have no bearing on your intended analysis.
+"Bringing structure to your data—general ‘housekeeping’, i.e. fixing typos or layout issues, which will help you map and manipulate your data more easily."
+"Filling in major gaps—as you’re tidying up, you might notice that important data are missing. Once you’ve identified gaps, you can go about filling them."
+
+
+Analyzing the data:
+
+1. Descriptive analysis
+2. Diagnostic analysis
+
+Data Analysis questions:-
+
+
+1. Find highest electricity consumers
+2. Who is the Best Commodity type
+2. Find highest energy consumed type
+Find the Best Distubuter 
+3. Find the highest electricity consumptions by the customers.
+
+4. Find highest delivery cost based on the city wise.
+
+5. Find highest total cost and suppilier cost in each city
+
+6. Find the which dept consumed all energy type based on the city wise and zipcode wise
