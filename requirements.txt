@@ -1,0 +1,14 @@
+statsmodels==0.12.2
+sweetviz==2.1.2
+numpy
+pandas
+seaborn
+genpipes
+pip
+pdpipe
+Cython==0.29.24
+numexpr==2.7.3
+sodapy==2.1.0
+statsmodels
+statsmodels
+pandas-datareader
